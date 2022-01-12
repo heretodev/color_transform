@@ -1,0 +1,3 @@
+# Color Transform
+
+Using a CImg backend, perform HSL and HSP color transforms.
